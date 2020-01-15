@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kyuhwanyeon/GitProject/005_ConcurrentTrafficSimulation/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.cpp
+TrafficLight.h
+/home/kyuhwanyeon/GitProject/005_ConcurrentTrafficSimulation/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
+iostream
+-
+random
+-
+future
+-
+
+/home/kyuhwanyeon/GitProject/005_ConcurrentTrafficSimulation/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
+TrafficObject.h
+/home/kyuhwanyeon/GitProject/005_ConcurrentTrafficSimulation/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
+condition_variable
+-
+deque
+-
+mutex
+-
+
+/home/kyuhwanyeon/GitProject/005_ConcurrentTrafficSimulation/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
